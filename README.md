@@ -18,6 +18,6 @@ I'm Mike Louie Bania, a Information Technology student at Technological Institut
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeLouieBania&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- <a href="https://www.linkedin.com/in/mike-louie-bania-bb3b0b2b1"><img src="https://icons8.com/icon/447/linkedin" alt="LinkedIn"/></a>
+- [LinkedIn](https://www.linkedin.com/in/mike-louie-bania-bb3b0b2b1/)
 - [Youtube](https://www.youtube.com/@tamamopasta3577)
 - [Personal Website](https://www.yourwebsite.com)
