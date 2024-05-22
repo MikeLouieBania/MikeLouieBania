@@ -7,7 +7,7 @@ I'm Mike Louie Bania, a Information Technology student at Technological Institut
 - 🌱 I’m currently learning Full-Stack Development
 - 💡 Interested in Web-Development, Open Source, and Data Science
 - 👯 I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: [mikosarto12@gmail.com](mailto:mikosarto12@gmail.com)
+- 📫 How to reach me: [mikosarto12@gmail.com](gmailto:mikosarto12@gmail.com)
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, HTML, CSS
